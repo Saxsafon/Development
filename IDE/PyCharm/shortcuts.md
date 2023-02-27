@@ -21,7 +21,7 @@ ctrl + shift + j - join lines
 F2 or shift + F2 - next error
 alt + enter - fix error
 
-shift + F6 - rename
+shift + F6 - rename variable
 shift + F10 - run
 ```
 
